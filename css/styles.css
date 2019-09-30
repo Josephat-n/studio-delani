@@ -62,3 +62,6 @@ img.portfolio{
   height: 200px;
   align-items: center;
 }
+#des{
+  display: none;
+}
