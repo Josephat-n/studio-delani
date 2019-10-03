@@ -4,7 +4,9 @@
   background-image:url("../assets/backgrounds/h_img.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  color:white;
 }
+
 .text{
   text-align: center;
   margin: 0;
@@ -31,6 +33,8 @@ h2.text{
 .fourth{
   padding-top: 20px;
   padding-bottom: 20px;
+  display: flex;
+  align-items: center;
 }
 
 img.fourth{
