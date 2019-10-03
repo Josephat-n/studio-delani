@@ -12,11 +12,13 @@
   font-weight: bolder;
   }
 #mouse{
-  position: absolute;
-  padding-top: 14%;
+  padding-top: 10%;
   padding-left: 50%;
 }
-
+#logo{
+  padding-left: 45%;
+  padding-top: 2%;
+}
 .text{
   text-align: center;
   margin: 0;
