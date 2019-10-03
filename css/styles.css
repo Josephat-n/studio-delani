@@ -89,6 +89,12 @@ p.fourth{
   background-size: 100% 100%;
   color:white;
 }
+/* .form-control{
+  color:white;
+  background-color: transparent;  
+  font-size:20px;
+  font-weight: bolder;
+} */
 .socialMedia{
   padding-top: 2%;
   width: 100%;
@@ -100,4 +106,8 @@ p.fourth{
 .about{
   padding-top: 3%;
   padding-bottom: 3%;
+}
+
+input type{
+  color:white;
 }
