@@ -40,14 +40,15 @@ img.fourth{
   align-items: center;
  
 }
-p.fourth{
-  
+p.fourth{  
   display: flex;
   align-items: center;
 }
-img.portfolio{
+.portfolio{  
   float: left;
+
 }
+
 .contact{
   padding-top: 60px;
   width: 100%;

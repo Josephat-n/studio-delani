@@ -23,5 +23,9 @@ $(document).ready(function(){
     $(this).hide();
     $("img#product").show();
   }); 
-
+  $("img.portfolio").mouseover(function(){
+    $(this).text("Project");
+  }, function(){
+    $(this).css("background-color", "white");
+  });
 });
