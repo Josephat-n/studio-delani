@@ -1,9 +1,9 @@
 ## Project Description:
 This project helps the one attempting it to perfect on their design and jQuery skills. The user will be able to redesign a provided page, and add code to display some message on some section on click ,and some other effects on mouse hover.
-The page to redesign is as below:
+The page to redesign is as below:<br>![picture](Delani-Studio.jpg)
 
 ### Name  of Author
-* Josphat Njoroge. \pagebreak
+* Josphat Njoroge. <br>
 Cellphone: 0731-633511.
 
 ### Setup Instructions.
